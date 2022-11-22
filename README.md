@@ -5,3 +5,4 @@
  ![Darllan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darllan&show_icons=true&theme=transparent)
 ##### Estudante da Uninassau 
 ##### Frontend da startup PrintF. Startup com o intuito a resoluções de curto a longo prazo
+
